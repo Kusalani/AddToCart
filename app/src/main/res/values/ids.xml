@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rec_img" type="id" />
+    <item name="rec_name" type="id" />
+    <item name="rec_dec" type="id" />
+    <item name="rec_rating" type="id" />
+    <item name="home_cat_img" type="id" />
+    <item name="cat_home_name" type="id" />
+    <item name="nav_header_name" type="id" />
+    <item name="nav_header_email" type="id" />
+    <item name="nav_header_img" type="id" />
+</resources>

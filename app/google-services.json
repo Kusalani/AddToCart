@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388872594794",
+    "project_id": "abcde-45bfd",
+    "storage_bucket": "abcde-45bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388872594794:android:e097eff4ccd392666fb113",
+        "android_client_info": {
+          "package_name": "com.example.onlinehardwarestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388872594794-0fidb4b9623vogv4fer8t2uhasbkoks8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinehardwarestore",
+            "certificate_hash": "7512d9163c1035ff68380a39fe1e4d6a426c2c54"
+          }
+        },
+        {
+          "client_id": "388872594794-u8h3cr2k30e8s70ilp8bc6qd8b3bu1ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEESGF-aL9Y_igvOeXt7PFuwXd0QcfnQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388872594794-u8h3cr2k30e8s70ilp8bc6qd8b3bu1ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
